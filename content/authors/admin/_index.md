@@ -1,7 +1,7 @@
 ---
 title: 周家纬（David）
 role: undergraduate student at ECNU
-avatar_filename: bart.jpeg
+avatar_filename: id_compression.jpg
 bio: "My research interests include data mining and machine learning. "
 interests:
   - Artificial Intelligence
